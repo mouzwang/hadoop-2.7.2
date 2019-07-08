@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/hadoop-common-project/hadoop-auth-examples" />
+    <file type="web" url="file://$PROJECT_DIR$/hadoop-common-project/hadoop-kms" />
+    <file type="web" url="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs-httpfs" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoop-dist/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-ant/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-aws/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-sls/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-azure/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-rumen/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-distcp/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-extras/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-gridmix/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-archives/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-datajoin/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-openstack/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-streaming/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-tools/hadoop-tools-dist/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-client/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-assemblies/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-minicluster/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs-nfs/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs-httpfs/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-project-dist/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-api/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-sharedcachemanager/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-registry/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-maven-plugins/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-common-project/hadoop-kms/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-common-project/hadoop-nfs/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-common-project/hadoop-auth/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-common-project/hadoop-common/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-common-project/hadoop-minikdc/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-common-project/hadoop-annotations/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-common-project/hadoop-auth-examples/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/hadoop-mapreduce-project/hadoop-mapreduce-examples/target/maven-archiver/pom.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
