@@ -6,6 +6,9 @@
     <file type="web" url="file://$PROJECT_DIR$/hadoop-common-project/hadoop-kms" />
     <file type="web" url="file://$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs-httpfs" />
   </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
